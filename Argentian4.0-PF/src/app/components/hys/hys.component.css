@@ -1,0 +1,16 @@
+.contenedor{
+    padding: 20px;
+    background-color:#8977ac;  
+}
+h1{
+text-align: center ;
+background-color:#8977ac;
+padding: 10px;
+}
+.row{
+    background-color:#8977ac;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
