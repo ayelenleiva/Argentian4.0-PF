@@ -1,6 +1,13 @@
+.proyecto{
+    background-color: black;
+}
 .row{
+    background: #b7a2c4;
+    margin: 20px 30px;
     padding: 20px;
-    background-color: #8977ac;
+    border: 3px solid #af03ff;
+    display: inline-block;
+
 }
 .contenedor{
     width: auto;

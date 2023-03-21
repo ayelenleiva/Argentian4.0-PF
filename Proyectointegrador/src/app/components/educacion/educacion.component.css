@@ -1,0 +1,16 @@
+.eduacion{
+    background-color: black;
+}
+.row {
+    background: #b7a2c4;
+    margin: 20px 30px;
+    border: 3px solid #af03ff;
+    display: inline-block;
+    padding: 20px;
+}
+div{
+    background: #b7a2c4;
+}
+h1, h3{
+    display: inline;
+}

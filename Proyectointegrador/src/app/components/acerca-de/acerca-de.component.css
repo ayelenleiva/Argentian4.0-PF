@@ -1,8 +1,15 @@
+.acerca{
+    background-color: black;
+}
 .row {
+    background: #b7a2c4;
+    margin: 20px 30px;
     padding: 20px;
+    border: 3px solid #af03ff;
+    display: inline-block;
 }
 div {
-    background-color: #8977ac;
+    background-color: #b7a2c4;
     text-align: center;
 }
 /*Estilo de la foto de perfil*/
@@ -11,7 +18,7 @@ div {
        
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(10, 10, 10);
         left: 3%;
         top: 600px;
     } 
