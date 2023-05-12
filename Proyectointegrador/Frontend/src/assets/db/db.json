@@ -1,0 +1,19 @@
+{
+    "nombre": "Maria Ayelen",
+    "apellido": "Leiva" ,
+    "edad": "27",
+    "img": "https://github.com/ayelenleiva/Argentian4.0-PF/blob/70a0a0e9fc5b96fbd18061cfa0ed53ab35f10f4d/Proyectointegrador/Frontend/src/assets/perfilPhoto.jpeg",
+
+    "estudios": [
+        {
+            "id": 1,
+            "titulo":"Ingenieria en Sistemas de Informacion",
+            "descripcion": "Universidad Tecnologica Nacional"
+        },
+        {
+            "id": 2,
+            "titulo":"Ingenieria en Sistemas de Informacion",
+            "descripcion": "Universidad Tecnologica Nacional"
+        }
+    ]
+}
